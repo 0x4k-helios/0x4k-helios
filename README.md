@@ -6,20 +6,10 @@ Welcome to my GitHub corner! I'm a passionate developer who loves building innov
 ---
 
 ### 🛠️ Tech Stack & Skills:
-- **Languages:** [e.g., JavaScript, Python, C++, Go]  
-- **Frameworks:** [e.g., React, Angular, Django, Flask]  
-- **Tools:** [e.g., Git, Docker, Kubernetes, CI/CD]  
-- **Other:** [e.g., AI/ML, Blockchain, Cloud Computing]  
-
----
-
-### 🌟 Featured Projects:
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project Name](#)** | [One-liner about the project. Why it's cool or impactful.] | Tech Used |
-| **[Another Project](#)** | [Solve a specific problem or showcase creativity.] | Tech Used |
-
-> Check out my repositories for more exciting projects and experiments! 🎉
+- **Languages:** [ C, C++, C#, Python, JavaScript, TypeScript, Ruby ]
+- **Frameworks:** [ React, Angular, Vue, Next, MUI, Tailwind CSS, Styled Components, MERN Stack, Django, Flask, Express, NestJS, ASP.Net ]
+- **Blockchain:** [ Solidity, Rust, EVM, Hardhat, Ganache, Truffle, Substrate, Anchor, Cosmos SDK, Chainlink ]  
+- **Other:** [ Git, Github, Jira, Docker, Kubernetes, Terraform, Jenkins, Cypress, Jest, AWS, GCP]  
 
 ---
 
@@ -29,22 +19,16 @@ To leverage technology to solve real-world problems, enhance user experiences, a
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4k-helios&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect:
-- 🌍 [Portfolio Website](#)  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📫 Email: [Your Email]
-
----
-
-### ✨ Fun Fact:
-[Something quirky, like “I can debug before my coffee” or “I’ve written code that went to space!”]
+- 🌍 [[Portfolio Website](#)](https://william-greer-devforlio.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/william-greer-chase)  
+- 📫 Email: [williamgreer327@gmail.com]
 
 ---
 
 ⚡ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+🎯 *"Talk is cheap, show me the code." – Linus Torvalds*
