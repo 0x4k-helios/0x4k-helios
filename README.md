@@ -31,4 +31,5 @@ To leverage technology to solve real-world problems, enhance user experiences, a
 ---
 
 ⚡ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+<br>
 🎯 *"Talk is cheap, show me the code." – Linus Torvalds*
