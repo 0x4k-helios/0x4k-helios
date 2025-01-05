@@ -1,5 +1,5 @@
 # 💻 Hello, World! I'm William Greer 👋  
-*Full Stack Engineer | Blockchain Developer | Web3 Innovator*
+*Full Stack Engineer | Frontend Engineer | Blockchain Developer | Web3 Innovator*
 
 Welcome to my GitHub corner! I'm a passionate developer who loves building innovative solutions, exploring emerging technologies, and collaborating on impactful projects. 🚀  
 
